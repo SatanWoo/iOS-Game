@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tc_ani_coin_in_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{107, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 6}, {42, 97}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+		<key>tc_ani_coin_in_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{266, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 3}, {42, 97}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+		<key>tc_ani_coin_in_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 40}, {42, 97}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+		<key>tc_ani_coin_in_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{54, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 76}, {42, 97}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+		<key>tc_ani_coin_in_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{213, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 113}, {42, 97}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+		<key>tc_ani_coin_in_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 149}, {42, 64}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+		<key>tc_ani_coin_in_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{160, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{9, 172}, {38, 41}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+		<key>tc_ani_coin_in_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{372, 1}, {52, 222}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{14, 195}, {29, 18}}</string>
+			<key>sourceSize</key>
+			<string>{52, 222}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

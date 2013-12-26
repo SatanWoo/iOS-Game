@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tc_ani_tiger_happy_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 1}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 1}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 1}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 1}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 199}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 199}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 199}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 199}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 199}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 397}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 397}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 397}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 397}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 397}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 595}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 595}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 595}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 595}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 595}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 793}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 793}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 793}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {196, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 793}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+		<key>tc_ani_tiger_happy_025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 793}, {199, 197}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 197}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

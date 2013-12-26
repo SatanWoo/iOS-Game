@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tc_ani_juese_win1_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{301, 402}, {75, 99}}</string>
+			<key>offset</key>
+			<string>{-1, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {75, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{76, 402}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-3.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{76, 202}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-5.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 202}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-7.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 102}, {73, 99}}</string>
+			<key>offset</key>
+			<string>{-9, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 1}, {73, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{294, 1}, {73, 100}}</string>
+			<key>offset</key>
+			<string>{-11, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 1}, {73, 100}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{75, 102}, {73, 99}}</string>
+			<key>offset</key>
+			<string>{-13, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {73, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {71, 99}}</string>
+			<key>offset</key>
+			<string>{-15, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {71, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{220, 1}, {73, 99}}</string>
+			<key>offset</key>
+			<string>{-13, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {73, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{146, 1}, {73, 100}}</string>
+			<key>offset</key>
+			<string>{-11, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 1}, {73, 100}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{371, 102}, {73, 99}}</string>
+			<key>offset</key>
+			<string>{-9, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 1}, {73, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{226, 302}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-7.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 302}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-5.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 202}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-3.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 202}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{377, 402}, {75, 99}}</string>
+			<key>offset</key>
+			<string>{1, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{14, 1}, {75, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{76, 302}, {74, 98}}</string>
+			<key>offset</key>
+			<string>{3.5, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{17, 2}, {74, 98}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{301, 202}, {74, 97}}</string>
+			<key>offset</key>
+			<string>{5.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{19, 3}, {74, 97}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{226, 202}, {74, 98}}</string>
+			<key>offset</key>
+			<string>{7.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{21, 3}, {74, 98}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{226, 402}, {74, 96}}</string>
+			<key>offset</key>
+			<string>{9.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{23, 5}, {74, 96}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{223, 102}, {73, 95}}</string>
+			<key>offset</key>
+			<string>{12, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{26, 6}, {73, 95}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 1}, {72, 94}}</string>
+			<key>offset</key>
+			<string>{14.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{29, 7}, {72, 94}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{149, 102}, {73, 95}}</string>
+			<key>offset</key>
+			<string>{12, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{26, 6}, {73, 95}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{297, 102}, {73, 96}}</string>
+			<key>offset</key>
+			<string>{10, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{24, 5}, {73, 96}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{368, 1}, {73, 97}}</string>
+			<key>offset</key>
+			<string>{8, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{22, 4}, {73, 97}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_026.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 402}, {74, 98}}</string>
+			<key>offset</key>
+			<string>{6.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{20, 3}, {74, 98}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_027.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 402}, {74, 98}}</string>
+			<key>offset</key>
+			<string>{4.5, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{18, 2}, {74, 98}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_028.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 302}, {74, 98}}</string>
+			<key>offset</key>
+			<string>{2.5, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{16, 2}, {74, 98}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_029.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{301, 302}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{14, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_win1_030.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 302}, {74, 99}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {74, 99}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+	</dict>
+</dict>
+</plist>

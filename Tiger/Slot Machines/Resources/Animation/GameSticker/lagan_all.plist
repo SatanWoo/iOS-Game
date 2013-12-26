@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tc_ani_lagan_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {89, 182}}</string>
+			<key>offset</key>
+			<string>{0, 79.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 0}, {89, 182}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{273, 1}, {91, 178}}</string>
+			<key>offset</key>
+			<string>{0, 77.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {91, 178}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{549, 1}, {91, 173}}</string>
+			<key>offset</key>
+			<string>{0, 76}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 8}, {91, 173}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{641, 1}, {91, 169}}</string>
+			<key>offset</key>
+			<string>{0, 74}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 12}, {91, 169}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{457, 1}, {91, 165}}</string>
+			<key>offset</key>
+			<string>{0, 72}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 16}, {91, 165}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 187}, {92, 161}}</string>
+			<key>offset</key>
+			<string>{0.5, 70}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 20}, {92, 161}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{188, 187}, {93, 156}}</string>
+			<key>offset</key>
+			<string>{0, 68.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 24}, {93, 156}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{282, 187}, {93, 152}}</string>
+			<key>offset</key>
+			<string>{0, 66.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 28}, {93, 152}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{658, 187}, {93, 148}}</string>
+			<key>offset</key>
+			<string>{0, 64.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 32}, {93, 148}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{752, 187}, {94, 144}}</string>
+			<key>offset</key>
+			<string>{0.5, 62.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 36}, {94, 144}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{577, 349}, {95, 140}}</string>
+			<key>offset</key>
+			<string>{0, 60.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 40}, {95, 140}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{673, 349}, {95, 135}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 44}, {95, 135}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 349}, {95, 131}}</string>
+			<key>offset</key>
+			<string>{0, 57}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 48}, {95, 131}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{97, 349}, {95, 127}}</string>
+			<key>offset</key>
+			<string>{0, 55}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 52}, {95, 127}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{589, 490}, {97, 122}}</string>
+			<key>offset</key>
+			<string>{0, 53.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 56}, {97, 122}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 614}, {97, 118}}</string>
+			<key>offset</key>
+			<string>{0, 51.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 60}, {97, 118}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 614}, {97, 114}}</string>
+			<key>offset</key>
+			<string>{0, 49.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 64}, {97, 114}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{99, 490}, {97, 109}}</string>
+			<key>offset</key>
+			<string>{0, 47}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 69}, {97, 109}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{295, 490}, {97, 105}}</string>
+			<key>offset</key>
+			<string>{0, 45}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 73}, {97, 105}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{769, 349}, {97, 100}}</string>
+			<key>offset</key>
+			<string>{0, 43.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 77}, {97, 100}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{393, 614}, {97, 96}}</string>
+			<key>offset</key>
+			<string>{0, 41.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 81}, {97, 96}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{589, 614}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 37}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 85}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{867, 349}, {97, 96}}</string>
+			<key>offset</key>
+			<string>{0, 32.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 90}, {97, 96}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 490}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 28}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 94}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{786, 614}, {98, 97}}</string>
+			<key>offset</key>
+			<string>{0.5, 24}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 98}, {98, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_026.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{300, 734}, {99, 97}}</string>
+			<key>offset</key>
+			<string>{0, 20}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 102}, {99, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_027.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{800, 734}, {99, 98}}</string>
+			<key>offset</key>
+			<string>{0, 15.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 106}, {99, 98}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_028.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 734}, {99, 97}}</string>
+			<key>offset</key>
+			<string>{0, 11}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 111}, {99, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_029.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 734}, {99, 98}}</string>
+			<key>offset</key>
+			<string>{0, 7.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 114}, {99, 98}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_030.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{400, 734}, {99, 98}}</string>
+			<key>offset</key>
+			<string>{0, 2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 119}, {99, 98}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_031.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{600, 734}, {99, 98}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 123}, {99, 98}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_032.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 734}, {99, 98}}</string>
+			<key>offset</key>
+			<string>{0, -5.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 127}, {99, 98}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_033.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{700, 734}, {99, 97}}</string>
+			<key>offset</key>
+			<string>{0, -10}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 132}, {99, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_034.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{687, 614}, {98, 98}}</string>
+			<key>offset</key>
+			<string>{-0.5, -14.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 136}, {98, 98}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_035.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 614}, {98, 97}}</string>
+			<key>offset</key>
+			<string>{-0.5, -19}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 141}, {98, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_036.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 734}, {98, 97}}</string>
+			<key>offset</key>
+			<string>{-0.5, -23}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 145}, {98, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_037.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 490}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, -27}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 149}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_038.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{99, 614}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, -31}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 153}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_039.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{393, 490}, {97, 98}}</string>
+			<key>offset</key>
+			<string>{0, -34.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 156}, {97, 98}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_040.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{295, 614}, {97, 103}}</string>
+			<key>offset</key>
+			<string>{0, -37}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 156}, {97, 103}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_041.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{883, 490}, {97, 107}}</string>
+			<key>offset</key>
+			<string>{0, -39}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 156}, {97, 107}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_042.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{687, 490}, {97, 111}}</string>
+			<key>offset</key>
+			<string>{0, -41}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 156}, {97, 111}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_043.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{785, 490}, {97, 115}}</string>
+			<key>offset</key>
+			<string>{0, -43}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 156}, {97, 115}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_044.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 614}, {97, 119}}</string>
+			<key>offset</key>
+			<string>{0, -45}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 156}, {97, 119}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_045.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 490}, {97, 123}}</string>
+			<key>offset</key>
+			<string>{0, -47}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 156}, {97, 123}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_046.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{481, 349}, {95, 128}}</string>
+			<key>offset</key>
+			<string>{0, -49.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 156}, {95, 128}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_047.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 349}, {95, 132}}</string>
+			<key>offset</key>
+			<string>{0, -51.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 156}, {95, 132}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_048.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{289, 349}, {95, 136}}</string>
+			<key>offset</key>
+			<string>{0, -53.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 156}, {95, 136}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_049.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{193, 349}, {95, 140}}</string>
+			<key>offset</key>
+			<string>{0, -55.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 156}, {95, 140}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_050.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{847, 187}, {94, 144}}</string>
+			<key>offset</key>
+			<string>{-0.5, -57.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 156}, {94, 144}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_051.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{94, 187}, {93, 148}}</string>
+			<key>offset</key>
+			<string>{0, -59.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 156}, {93, 148}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_052.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 187}, {93, 152}}</string>
+			<key>offset</key>
+			<string>{0, -61.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 156}, {93, 152}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_053.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{564, 187}, {93, 156}}</string>
+			<key>offset</key>
+			<string>{0, -63.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 156}, {93, 156}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_054.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{470, 187}, {93, 160}}</string>
+			<key>offset</key>
+			<string>{0, -65.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 156}, {93, 160}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_055.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{825, 1}, {92, 164}}</string>
+			<key>offset</key>
+			<string>{-0.5, -67.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 156}, {92, 164}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_056.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{918, 1}, {92, 168}}</string>
+			<key>offset</key>
+			<string>{-0.5, -69.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 156}, {92, 168}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_057.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 1}, {91, 172}}</string>
+			<key>offset</key>
+			<string>{0, -71.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 156}, {91, 172}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_058.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{733, 1}, {91, 177}}</string>
+			<key>offset</key>
+			<string>{0, -74}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 156}, {91, 177}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_059.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{365, 1}, {91, 180}}</string>
+			<key>offset</key>
+			<string>{0, -75.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 156}, {91, 180}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+		<key>tc_ani_lagan_060.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 1}, {89, 185}}</string>
+			<key>offset</key>
+			<string>{0, -78}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 156}, {89, 185}}</string>
+			<key>sourceSize</key>
+			<string>{99, 341}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

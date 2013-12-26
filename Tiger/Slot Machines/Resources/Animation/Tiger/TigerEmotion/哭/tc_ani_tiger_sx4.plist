@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tc_ani_tiger_sx4_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {198, 190}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 1}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {198, 190}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 1}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {198, 192}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 1}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {198, 193}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 1}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {198, 193}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 203}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 195}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 203}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 200}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 203}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 199}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 203}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 198}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 203}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 197}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 405}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 198}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 405}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 199}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 405}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 200}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 405}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 200}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 405}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 198}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 607}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 196}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 607}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 195}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 607}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {198, 193}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 607}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {198, 193}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 607}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {198, 192}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 809}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {198, 192}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 809}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {198, 190}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 809}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {198, 190}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{601, 809}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {198, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+		<key>tc_ani_tiger_sx4_025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 809}, {199, 201}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {198, 189}}</string>
+			<key>sourceSize</key>
+			<string>{199, 201}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

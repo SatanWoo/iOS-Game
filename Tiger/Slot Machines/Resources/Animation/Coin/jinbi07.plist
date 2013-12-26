@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>jinbi07_0018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{405, 1}, {28, 29}}</string>
+			<key>offset</key>
+			<string>{112, 16.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{578, 289}, {28, 29}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{768, 73}, {51, 57}}</string>
+			<key>offset</key>
+			<string>{111.5, 20.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{566, 271}, {51, 57}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 73}, {53, 69}}</string>
+			<key>offset</key>
+			<string>{111.5, 25.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{565, 260}, {53, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{926, 1}, {41, 69}}</string>
+			<key>offset</key>
+			<string>{111.5, 30.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{571, 255}, {41, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 1}, {27, 69}}</string>
+			<key>offset</key>
+			<string>{111.5, 35.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{578, 250}, {27, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{21, 1}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 40}</string>
+			<key>sourceColorRect</key>
+			<string>{{586, 245}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{219, 1}, {21, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 45}</string>
+			<key>sourceColorRect</key>
+			<string>{{582, 240}, {21, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{766, 1}, {37, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 50}</string>
+			<key>sourceColorRect</key>
+			<string>{{574, 235}, {37, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0026.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{461, 73}, {49, 69}}</string>
+			<key>offset</key>
+			<string>{112.5, 54.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{568, 231}, {49, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0027.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{642, 145}, {60, 70}}</string>
+			<key>offset</key>
+			<string>{113, 59}</string>
+			<key>sourceColorRect</key>
+			<string>{{563, 226}, {60, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0028.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 217}, {67, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 64}</string>
+			<key>sourceColorRect</key>
+			<string>{{559, 221}, {67, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0029.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 289}, {70, 69}}</string>
+			<key>offset</key>
+			<string>{112, 68.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 217}, {70, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0030.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{143, 289}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{112, 73}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 212}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0031.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 217}, {68, 70}}</string>
+			<key>offset</key>
+			<string>{112, 77}</string>
+			<key>sourceColorRect</key>
+			<string>{{558, 208}, {68, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0032.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{827, 145}, {63, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 81}</string>
+			<key>sourceColorRect</key>
+			<string>{{560, 204}, {63, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0033.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{111, 145}, {55, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 85}</string>
+			<key>sourceColorRect</key>
+			<string>{{564, 200}, {55, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0034.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 73}, {43, 69}}</string>
+			<key>offset</key>
+			<string>{111.5, 88.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{570, 197}, {43, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0035.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{347, 1}, {28, 70}}</string>
+			<key>offset</key>
+			<string>{112, 92}</string>
+			<key>sourceColorRect</key>
+			<string>{{578, 193}, {28, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0036.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{45, 1}, {12, 70}}</string>
+			<key>offset</key>
+			<string>{112, 95}</string>
+			<key>sourceColorRect</key>
+			<string>{{586, 190}, {12, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0037.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 1}, {21, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 98}</string>
+			<key>sourceColorRect</key>
+			<string>{{582, 187}, {21, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0038.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{657, 1}, {35, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 101}</string>
+			<key>sourceColorRect</key>
+			<string>{{575, 184}, {35, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0039.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{511, 73}, {49, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 103}</string>
+			<key>sourceColorRect</key>
+			<string>{{568, 182}, {49, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0040.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{399, 145}, {59, 71}}</string>
+			<key>offset</key>
+			<string>{112.5, 105.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{563, 179}, {59, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0041.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 217}, {67, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 108}</string>
+			<key>sourceColorRect</key>
+			<string>{{559, 177}, {67, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0042.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{886, 217}, {70, 71}}</string>
+			<key>offset</key>
+			<string>{112, 109.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 175}, {70, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0043.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{427, 289}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{112, 111}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 174}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0044.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{746, 217}, {69, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 113}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 172}, {69, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0045.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 217}, {64, 71}}</string>
+			<key>offset</key>
+			<string>{112, 114.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{560, 170}, {64, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0046.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{55, 145}, {55, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 116}</string>
+			<key>sourceColorRect</key>
+			<string>{{564, 169}, {55, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0047.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{177, 73}, {45, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 117}</string>
+			<key>sourceColorRect</key>
+			<string>{{569, 168}, {45, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0048.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{524, 1}, {31, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 118}</string>
+			<key>sourceColorRect</key>
+			<string>{{576, 167}, {31, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0049.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74, 1}, {15, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 119}</string>
+			<key>sourceColorRect</key>
+			<string>{{584, 166}, {15, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0050.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{140, 1}, {17, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 120}</string>
+			<key>sourceColorRect</key>
+			<string>{{584, 165}, {17, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0051.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{556, 1}, {31, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 121}</string>
+			<key>sourceColorRect</key>
+			<string>{{577, 164}, {31, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0052.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{315, 73}, {45, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 122}</string>
+			<key>sourceColorRect</key>
+			<string>{{570, 163}, {45, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0053.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{167, 145}, {56, 70}}</string>
+			<key>offset</key>
+			<string>{113, 123}</string>
+			<key>sourceColorRect</key>
+			<string>{{565, 162}, {56, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0054.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{955, 145}, {64, 70}}</string>
+			<key>offset</key>
+			<string>{113, 123}</string>
+			<key>sourceColorRect</key>
+			<string>{{561, 162}, {64, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0055.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{676, 217}, {69, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 124}</string>
+			<key>sourceColorRect</key>
+			<string>{{558, 161}, {69, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0056.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{214, 289}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{112, 124}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 161}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0057.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{72, 289}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{112, 125}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 160}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0058.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{607, 217}, {68, 70}}</string>
+			<key>offset</key>
+			<string>{112, 125}</string>
+			<key>sourceColorRect</key>
+			<string>{{558, 160}, {68, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0059.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{703, 145}, {61, 71}}</string>
+			<key>offset</key>
+			<string>{111.5, 125.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{561, 159}, {61, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0060.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 145}, {53, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 126}</string>
+			<key>sourceColorRect</key>
+			<string>{{565, 159}, {53, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0061.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 73}, {43, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 126}</string>
+			<key>sourceColorRect</key>
+			<string>{{570, 159}, {43, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0062.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{464, 1}, {29, 70}}</string>
+			<key>offset</key>
+			<string>{111.5, 126}</string>
+			<key>sourceColorRect</key>
+			<string>{{577, 159}, {29, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0063.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 1}, {16, 71}}</string>
+			<key>offset</key>
+			<string>{112, 126.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{584, 158}, {16, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0064.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{58, 1}, {15, 69}}</string>
+			<key>offset</key>
+			<string>{112.5, 126.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{585, 159}, {15, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0065.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{494, 1}, {29, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 127}</string>
+			<key>sourceColorRect</key>
+			<string>{{578, 158}, {29, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0066.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{884, 1}, {41, 71}}</string>
+			<key>offset</key>
+			<string>{112.5, 126.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{572, 158}, {41, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0067.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{664, 73}, {51, 71}}</string>
+			<key>offset</key>
+			<string>{112.5, 126.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{567, 158}, {51, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0068.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{224, 145}, {57, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 127}</string>
+			<key>sourceColorRect</key>
+			<string>{{564, 158}, {57, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0069.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{765, 145}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 127}</string>
+			<key>sourceColorRect</key>
+			<string>{{562, 158}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0070.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{891, 145}, {63, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 128}</string>
+			<key>sourceColorRect</key>
+			<string>{{561, 157}, {63, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0071.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{132, 217}, {65, 71}}</string>
+			<key>offset</key>
+			<string>{112.5, 128.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{560, 156}, {65, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0072.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{66, 217}, {65, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 129}</string>
+			<key>sourceColorRect</key>
+			<string>{{560, 156}, {65, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0073.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 217}, {67, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 130}</string>
+			<key>sourceColorRect</key>
+			<string>{{559, 155}, {67, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0074.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{538, 217}, {68, 70}}</string>
+			<key>offset</key>
+			<string>{112, 130}</string>
+			<key>sourceColorRect</key>
+			<string>{{558, 155}, {68, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0075.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{816, 217}, {69, 70}}</string>
+			<key>offset</key>
+			<string>{112.5, 131}</string>
+			<key>sourceColorRect</key>
+			<string>{{558, 154}, {69, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0076.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{285, 289}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{112, 131}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 154}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0077.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{498, 289}, {70, 71}}</string>
+			<key>offset</key>
+			<string>{112, 131.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 153}, {70, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0078.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{356, 289}, {70, 71}}</string>
+			<key>offset</key>
+			<string>{112, 131.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{557, 153}, {70, 71}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0079.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{198, 217}, {66, 70}}</string>
+			<key>offset</key>
+			<string>{111, 131}</string>
+			<key>sourceColorRect</key>
+			<string>{{558, 154}, {66, 70}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0080.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{520, 145}, {60, 69}}</string>
+			<key>offset</key>
+			<string>{109, 129.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{559, 156}, {60, 69}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0081.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{561, 73}, {50, 68}}</string>
+			<key>offset</key>
+			<string>{106, 127}</string>
+			<key>sourceColorRect</key>
+			<string>{{561, 159}, {50, 68}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0082.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{843, 1}, {40, 67}}</string>
+			<key>offset</key>
+			<string>{102, 122.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{562, 164}, {40, 67}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0083.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1}, {26, 66}}</string>
+			<key>offset</key>
+			<string>{97, 118}</string>
+			<key>sourceColorRect</key>
+			<string>{{564, 169}, {26, 66}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0084.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{33, 1}, {11, 65}}</string>
+			<key>offset</key>
+			<string>{91.5, 112.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{566, 175}, {11, 65}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0085.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{177, 1}, {19, 64}}</string>
+			<key>offset</key>
+			<string>{84.5, 106}</string>
+			<key>sourceColorRect</key>
+			<string>{{555, 182}, {19, 64}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0086.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{588, 1}, {32, 64}}</string>
+			<key>offset</key>
+			<string>{77, 99}</string>
+			<key>sourceColorRect</key>
+			<string>{{541, 189}, {32, 64}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0087.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{45, 73}, {43, 63}}</string>
+			<key>offset</key>
+			<string>{68.5, 90.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{527, 198}, {43, 63}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0088.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{820, 73}, {52, 62}}</string>
+			<key>offset</key>
+			<string>{59, 82}</string>
+			<key>sourceColorRect</key>
+			<string>{{513, 207}, {52, 62}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0089.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{282, 145}, {57, 61}}</string>
+			<key>offset</key>
+			<string>{48.5, 72.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{500, 217}, {57, 61}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0090.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{581, 145}, {60, 60}}</string>
+			<key>offset</key>
+			<string>{37, 62}</string>
+			<key>sourceColorRect</key>
+			<string>{{487, 228}, {60, 60}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0091.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{459, 145}, {60, 59}}</string>
+			<key>offset</key>
+			<string>{26, 51.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{476, 239}, {60, 59}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0092.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{340, 145}, {58, 59}}</string>
+			<key>offset</key>
+			<string>{13, 40.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{464, 250}, {58, 59}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0093.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{873, 73}, {53, 59}}</string>
+			<key>offset</key>
+			<string>{0.5, 28.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{454, 262}, {53, 59}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0094.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{223, 73}, {45, 57}}</string>
+			<key>offset</key>
+			<string>{-12.5, 16.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{445, 275}, {45, 57}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0095.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{693, 1}, {35, 56}}</string>
+			<key>offset</key>
+			<string>{-26.5, 4}</string>
+			<key>sourceColorRect</key>
+			<string>{{436, 288}, {35, 56}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0096.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{241, 1}, {23, 56}}</string>
+			<key>offset</key>
+			<string>{-39.5, -9}</string>
+			<key>sourceColorRect</key>
+			<string>{{429, 301}, {23, 56}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0097.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{10, 1}, {10, 55}}</string>
+			<key>offset</key>
+			<string>{-54, -22.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{421, 315}, {10, 55}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0098.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{106, 1}, {16, 55}}</string>
+			<key>offset</key>
+			<string>{-68, -35.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{404, 328}, {16, 55}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0099.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{434, 1}, {29, 54}}</string>
+			<key>offset</key>
+			<string>{-82.5, -49}</string>
+			<key>sourceColorRect</key>
+			<string>{{383, 342}, {29, 54}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0100.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{804, 1}, {38, 53}}</string>
+			<key>offset</key>
+			<string>{-97, -62.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{364, 356}, {38, 53}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0101.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 73}, {45, 52}}</string>
+			<key>offset</key>
+			<string>{-112.5, -77}</string>
+			<key>sourceColorRect</key>
+			<string>{{345, 371}, {45, 52}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0102.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{411, 73}, {49, 52}}</string>
+			<key>offset</key>
+			<string>{-127.5, -91}</string>
+			<key>sourceColorRect</key>
+			<string>{{328, 385}, {49, 52}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0103.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{716, 73}, {51, 51}}</string>
+			<key>offset</key>
+			<string>{-142.5, -104.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{312, 399}, {51, 51}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0104.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{612, 73}, {51, 51}}</string>
+			<key>offset</key>
+			<string>{-157.5, -118.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{297, 413}, {51, 51}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0105.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 73}, {49, 50}}</string>
+			<key>offset</key>
+			<string>{-172.5, -132}</string>
+			<key>sourceColorRect</key>
+			<string>{{283, 427}, {49, 50}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0106.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{89, 73}, {43, 49}}</string>
+			<key>offset</key>
+			<string>{-187.5, -145.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{271, 441}, {43, 49}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0107.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{729, 1}, {36, 48}}</string>
+			<key>offset</key>
+			<string>{-202, -159}</string>
+			<key>sourceColorRect</key>
+			<string>{{260, 455}, {36, 48}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0108.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{292, 1}, {26, 47}}</string>
+			<key>offset</key>
+			<string>{-216, -172.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{251, 469}, {26, 47}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0109.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 1}, {15, 47}}</string>
+			<key>offset</key>
+			<string>{-229.5, -185.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{243, 482}, {15, 47}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0110.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {8, 46}}</string>
+			<key>offset</key>
+			<string>{-243, -198}</string>
+			<key>sourceColorRect</key>
+			<string>{{233, 495}, {8, 46}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0111.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{158, 1}, {18, 46}}</string>
+			<key>offset</key>
+			<string>{-256, -210}</string>
+			<key>sourceColorRect</key>
+			<string>{{215, 507}, {18, 46}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0112.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 1}, {28, 45}}</string>
+			<key>offset</key>
+			<string>{-269, -221.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{197, 519}, {28, 45}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0113.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{621, 1}, {35, 44}}</string>
+			<key>offset</key>
+			<string>{-280.5, -233}</string>
+			<key>sourceColorRect</key>
+			<string>{{182, 531}, {35, 44}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>jinbi07_0114.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{968, 1}, {41, 43}}</string>
+			<key>offset</key>
+			<string>{-292.5, -243.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{167, 542}, {41, 43}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

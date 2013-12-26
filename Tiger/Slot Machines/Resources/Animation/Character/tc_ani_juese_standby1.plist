@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tc_ani_juese_standby1_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_026.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_027.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_028.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-2.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_029.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_030.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_031.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_032.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_033.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_034.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_035.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_036.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_037.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_038.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_039.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_040.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_041.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_042.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_043.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_044.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_045.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_046.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_047.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_048.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_049.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_050.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_051.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_052.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 409}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_053.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_054.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_055.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 205}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_056.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_057.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_058.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 1}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_059.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 103}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+		<key>tc_ani_juese_standby1_060.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 307}, {76, 101}}</string>
+			<key>offset</key>
+			<string>{-1.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {76, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 103}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

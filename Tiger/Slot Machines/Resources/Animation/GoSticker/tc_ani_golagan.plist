@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tc_ani_golagan_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {157, 162}}</string>
+			<key>offset</key>
+			<string>{-21.5, 68.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {157, 162}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{159, 1}, {162, 157}}</string>
+			<key>offset</key>
+			<string>{-19, 66}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 8}, {162, 157}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{322, 1}, {167, 153}}</string>
+			<key>offset</key>
+			<string>{-16.5, 63}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 13}, {167, 153}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{490, 1}, {170, 148}}</string>
+			<key>offset</key>
+			<string>{-14, 60.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 18}, {170, 148}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{661, 1}, {174, 142}}</string>
+			<key>offset</key>
+			<string>{-12, 57.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 24}, {174, 142}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{836, 1}, {179, 136}}</string>
+			<key>offset</key>
+			<string>{-9.5, 54.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 30}, {179, 136}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 164}, {182, 130}}</string>
+			<key>offset</key>
+			<string>{-8, 51.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 36}, {182, 130}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 164}, {185, 124}}</string>
+			<key>offset</key>
+			<string>{-5.5, 48.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 42}, {185, 124}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{370, 164}, {187, 118}}</string>
+			<key>offset</key>
+			<string>{-4.5, 44.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 49}, {187, 118}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{558, 164}, {190, 112}}</string>
+			<key>offset</key>
+			<string>{-3, 41.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 55}, {190, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{749, 164}, {192, 112}}</string>
+			<key>offset</key>
+			<string>{-2, 34.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 62}, {192, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 295}, {194, 112}}</string>
+			<key>offset</key>
+			<string>{-1, 27.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 69}, {194, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 295}, {195, 112}}</string>
+			<key>offset</key>
+			<string>{-0.5, 20.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 76}, {195, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{392, 295}, {196, 111}}</string>
+			<key>offset</key>
+			<string>{0, 14}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 83}, {196, 111}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{589, 295}, {196, 111}}</string>
+			<key>offset</key>
+			<string>{1, 7}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 90}, {196, 111}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{786, 295}, {197, 112}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 97}, {197, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 408}, {197, 112}}</string>
+			<key>offset</key>
+			<string>{1.5, -7.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 104}, {197, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 408}, {197, 112}}</string>
+			<key>offset</key>
+			<string>{0.5, -14.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 111}, {197, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 408}, {196, 112}}</string>
+			<key>offset</key>
+			<string>{1, -21.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 118}, {196, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{594, 408}, {194, 112}}</string>
+			<key>offset</key>
+			<string>{0, -28.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 125}, {194, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{789, 408}, {194, 112}}</string>
+			<key>offset</key>
+			<string>{-1, -35.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 132}, {194, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 521}, {192, 112}}</string>
+			<key>offset</key>
+			<string>{-2, -42.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 139}, {192, 112}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{194, 521}, {190, 113}}</string>
+			<key>offset</key>
+			<string>{-3, -48}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 144}, {190, 113}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 521}, {186, 120}}</string>
+			<key>offset</key>
+			<string>{-4, -51.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 144}, {186, 120}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{572, 521}, {183, 126}}</string>
+			<key>offset</key>
+			<string>{-5.5, -54.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 144}, {183, 126}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_026.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{756, 521}, {181, 133}}</string>
+			<key>offset</key>
+			<string>{-7.5, -58}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 144}, {181, 133}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_027.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 655}, {178, 138}}</string>
+			<key>offset</key>
+			<string>{-9, -61.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 145}, {178, 138}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_028.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{180, 655}, {174, 144}}</string>
+			<key>offset</key>
+			<string>{-11, -64.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 145}, {174, 144}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_029.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 655}, {170, 149}}</string>
+			<key>offset</key>
+			<string>{-13, -67}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 145}, {170, 149}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+		<key>tc_ani_golagan_030.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{526, 655}, {165, 154}}</string>
+			<key>offset</key>
+			<string>{-15.5, -69.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 145}, {165, 154}}</string>
+			<key>sourceSize</key>
+			<string>{206, 305}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>
