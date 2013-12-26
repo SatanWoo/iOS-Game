@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>七喜大瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{551, 1}, {54, 167}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {54, 167}}</string>
+			<key>sourceSize</key>
+			<string>{57, 170}</string>
+		</dict>
+		<key>七喜小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>七喜罐装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{714, 229}, {99, 183}}</string>
+			<key>offset</key>
+			<string>{1, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 1}, {99, 183}}</string>
+			<key>sourceSize</key>
+			<string>{113, 184}</string>
+		</dict>
+		<key>乐事墨西哥鸡汁番茄味45克.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{223, 457}, {110, 184}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {110, 184}}</string>
+			<key>sourceSize</key>
+			<string>{110, 184}</string>
+		</dict>
+		<key>乐事得克萨斯烧烤味45克.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{112, 457}, {110, 188}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {110, 188}}</string>
+			<key>sourceSize</key>
+			<string>{110, 188}</string>
+		</dict>
+		<key>乐事意大利香浓红烩味45克.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{334, 457}, {110, 184}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {110, 184}}</string>
+			<key>sourceSize</key>
+			<string>{110, 184}</string>
+		</dict>
+		<key>乐事无限兹兹烤肉味110g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{844, 1}, {66, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 227}}</string>
+			<key>sourceSize</key>
+			<string>{66, 227}</string>
+		</dict>
+		<key>乐事无限忠于原味110g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 229}, {66, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 227}}</string>
+			<key>sourceSize</key>
+			<string>{66, 227}</string>
+		</dict>
+		<key>乐事无限香辣海鲜味110克.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{911, 1}, {66, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 227}}</string>
+			<key>sourceSize</key>
+			<string>{66, 227}</string>
+		</dict>
+		<key>乐事美国经典原味45克.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 457}, {110, 188}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {110, 188}}</string>
+			<key>sourceSize</key>
+			<string>{110, 188}</string>
+		</dict>
+		<key>乐开脆番茄味.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 229}, {90, 158}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 158}}</string>
+			<key>sourceSize</key>
+			<string>{90, 158}</string>
+		</dict>
+		<key>乐开脆鲜虾味.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{159, 229}, {90, 162}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 162}}</string>
+			<key>sourceSize</key>
+			<string>{90, 162}</string>
+		</dict>
+		<key>佳得乐小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{441, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>冰山_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 646}, {188, 117}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {188, 117}}</string>
+			<key>sourceSize</key>
+			<string>{188, 120}</string>
+		</dict>
+		<key>冰山_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{378, 646}, {193, 80}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {193, 80}}</string>
+			<key>sourceSize</key>
+			<string>{193, 80}</string>
+		</dict>
+		<key>冰山_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{572, 646}, {263, 130}}</string>
+			<key>offset</key>
+			<string>{4, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 0}, {263, 130}}</string>
+			<key>sourceSize</key>
+			<string>{271, 130}</string>
+		</dict>
+		<key>华润万家_double_百事.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 646}, {187, 128}}</string>
+			<key>offset</key>
+			<string>{0, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {187, 128}}</string>
+			<key>sourceSize</key>
+			<string>{187, 133}</string>
+		</dict>
+		<key>奇多牛排60G.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{341, 229}, {90, 162}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 162}}</string>
+			<key>sourceSize</key>
+			<string>{90, 162}</string>
+		</dict>
+		<key>奇多美国火鸡60G.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68, 229}, {90, 164}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 164}}</string>
+			<key>sourceSize</key>
+			<string>{90, 164}</string>
+		</dict>
+		<key>悠米脆原味.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{716, 1}, {63, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 227}}</string>
+			<key>sourceSize</key>
+			<string>{63, 227}</string>
+		</dict>
+		<key>悠米脆海苔味.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{780, 1}, {63, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 227}}</string>
+			<key>sourceSize</key>
+			<string>{63, 227}</string>
+		</dict>
+		<key>手推车.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{673, 457}, {185, 150}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {185, 150}}</string>
+			<key>sourceSize</key>
+			<string>{185, 151}</string>
+		</dict>
+		<key>果缤纷小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{111, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>波谷脆干锅香葱味.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{432, 229}, {90, 164}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 164}}</string>
+			<key>sourceSize</key>
+			<string>{90, 164}</string>
+		</dict>
+		<key>波谷脆椒盐坚果味.psd</key>
+		<dict>
+			<key>frame</key>
+			<string>{{250, 229}, {90, 164}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 164}}</string>
+			<key>sourceSize</key>
+			<string>{90, 164}</string>
+		</dict>
+		<key>激浪小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{166, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>激浪罐装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{914, 229}, {99, 184}}</string>
+			<key>offset</key>
+			<string>{1, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 0}, {99, 184}}</string>
+			<key>sourceSize</key>
+			<string>{113, 184}</string>
+		</dict>
+		<key>百事大瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {54, 167}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {54, 167}}</string>
+			<key>sourceSize</key>
+			<string>{57, 170}</string>
+		</dict>
+		<key>百事小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>百事罐装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{814, 229}, {99, 183}}</string>
+			<key>offset</key>
+			<string>{1, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 1}, {99, 183}}</string>
+			<key>sourceSize</key>
+			<string>{113, 184}</string>
+		</dict>
+		<key>立顿小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>纯果乐大瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{496, 1}, {54, 167}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {54, 167}}</string>
+			<key>sourceSize</key>
+			<string>{57, 170}</string>
+		</dict>
+		<key>美年达大瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 1}, {54, 167}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {54, 167}}</string>
+			<key>sourceSize</key>
+			<string>{57, 170}</string>
+		</dict>
+		<key>美年达小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{331, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>美年达罐装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{614, 229}, {99, 183}}</string>
+			<key>offset</key>
+			<string>{1, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{8, 1}, {99, 183}}</string>
+			<key>sourceSize</key>
+			<string>{113, 184}</string>
+		</dict>
+		<key>青椰子.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{445, 457}, {113, 126}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {113, 126}}</string>
+			<key>sourceSize</key>
+			<string>{115, 128}</string>
+		</dict>
+		<key>鲜果粒.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{661, 1}, {54, 167}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {54, 167}}</string>
+			<key>sourceSize</key>
+			<string>{57, 170}</string>
+		</dict>
+		<key>鲜果粒小瓶装.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606, 1}, {54, 172}}</string>
+			<key>offset</key>
+			<string>{-0.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {54, 172}}</string>
+			<key>sourceSize</key>
+			<string>{57, 176}</string>
+		</dict>
+		<key>黄椰子.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{559, 457}, {113, 126}}</string>
+			<key>offset</key>
+			<string>{-1, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {113, 126}}</string>
+			<key>sourceSize</key>
+			<string>{115, 128}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

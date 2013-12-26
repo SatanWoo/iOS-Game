@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>player_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 674}, {533, 138}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {533, 138}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 539}, {476, 134}}</string>
+			<key>offset</key>
+			<string>{28.5, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{57, 2}, {476, 134}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {323, 135}}</string>
+			<key>offset</key>
+			<string>{105, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{210, 2}, {323, 135}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{325, 1}, {326, 138}}</string>
+			<key>offset</key>
+			<string>{103.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{207, 2}, {326, 138}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{478, 539}, {481, 128}}</string>
+			<key>offset</key>
+			<string>{26, 4}</string>
+			<key>sourceColorRect</key>
+			<string>{{52, 2}, {481, 128}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{445, 400}, {470, 128}}</string>
+			<key>offset</key>
+			<string>{31.5, 4}</string>
+			<key>sourceColorRect</key>
+			<string>{{63, 2}, {470, 128}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 400}, {443, 138}}</string>
+			<key>offset</key>
+			<string>{45, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{90, 2}, {443, 138}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{406, 271}, {439, 128}}</string>
+			<key>offset</key>
+			<string>{47, 4}</string>
+			<key>sourceColorRect</key>
+			<string>{{94, 2}, {439, 128}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 271}, {404, 128}}</string>
+			<key>offset</key>
+			<string>{64.5, 4}</string>
+			<key>sourceColorRect</key>
+			<string>{{129, 2}, {404, 128}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 140}, {404, 128}}</string>
+			<key>offset</key>
+			<string>{64.5, 4}</string>
+			<key>sourceColorRect</key>
+			<string>{{129, 2}, {404, 128}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{652, 1}, {359, 128}}</string>
+			<key>offset</key>
+			<string>{87, 4}</string>
+			<key>sourceColorRect</key>
+			<string>{{174, 2}, {359, 128}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+		<key>player_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 140}, {359, 130}}</string>
+			<key>offset</key>
+			<string>{87, 3}</string>
+			<key>sourceColorRect</key>
+			<string>{{174, 2}, {359, 130}}</string>
+			<key>sourceSize</key>
+			<string>{533, 140}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

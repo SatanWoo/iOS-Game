@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>npc_b_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{262, 1}, {260, 100}}</string>
+			<key>offset</key>
+			<string>{7, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{14, 0}, {260, 100}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 102}, {274, 83}}</string>
+			<key>offset</key>
+			<string>{0, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {274, 83}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 102}, {274, 100}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {274, 100}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 1}, {274, 94}}</string>
+			<key>offset</key>
+			<string>{0, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {274, 94}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{551, 286}, {274, 89}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {274, 89}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 286}, {274, 81}}</string>
+			<key>offset</key>
+			<string>{0, 2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {274, 81}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{551, 102}, {274, 82}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {274, 82}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 286}, {274, 82}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {274, 82}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 203}, {274, 82}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {274, 82}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {260, 82}}</string>
+			<key>offset</key>
+			<string>{7, 2}</string>
+			<key>sourceColorRect</key>
+			<string>{{14, 7}, {260, 82}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{551, 203}, {274, 82}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {274, 82}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+		<key>npc_b_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 203}, {274, 82}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {274, 82}}</string>
+			<key>sourceSize</key>
+			<string>{274, 100}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

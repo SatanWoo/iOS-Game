@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>加10分.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{159, 1}, {118, 64}}</string>
+			<key>offset</key>
+			<string>{-1.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {118, 64}}</string>
+			<key>sourceSize</key>
+			<string>{121, 74}</string>
+		</dict>
+		<key>加20分.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{278, 1}, {118, 64}}</string>
+			<key>offset</key>
+			<string>{-1.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {118, 64}}</string>
+			<key>sourceSize</key>
+			<string>{121, 74}</string>
+		</dict>
+		<key>加5分.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {78, 63}}</string>
+			<key>offset</key>
+			<string>{-5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {78, 63}}</string>
+			<key>sourceSize</key>
+			<string>{88, 74}</string>
+		</dict>
+		<key>扣5分.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{80, 1}, {78, 63}}</string>
+			<key>offset</key>
+			<string>{-1.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {78, 63}}</string>
+			<key>sourceSize</key>
+			<string>{81, 74}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 128}</string>
+	</dict>
+</dict>
+</plist>
